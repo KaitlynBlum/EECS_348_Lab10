@@ -1,3 +1,8 @@
+// Name: Kaitlyn Blum
+// Student ID:3165243
+// assignment: Lab 10; more C++ programming
+// assistance from: Chat GPT
+//
 
 #include <iostream>  // Allows input and output using cout and cin
 #include <fstream>   // Allows reading from and writing to files
