@@ -1,5 +1,5 @@
 
-# Compiler
+# C++ compiler
 CXX = g++
 
 # Compiler flags
@@ -8,10 +8,10 @@ CXXFLAGS = -Wall -Wextra -std=c++11
 # Executable name
 TARGET = matrix
 
-# Source file
+# C++ source file
 SOURCE = main.cpp
 
-# Default rule
+# Default target
 all: $(TARGET)
 
 # Compile the program
